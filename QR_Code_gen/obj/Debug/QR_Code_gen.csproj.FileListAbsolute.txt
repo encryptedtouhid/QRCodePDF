@@ -1,0 +1,12 @@
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\bin\Debug\QR_Code_gen.exe.config
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\bin\Debug\QR_Code_gen.exe
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\bin\Debug\QR_Code_gen.pdb
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\bin\Debug\QRCoder.dll
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\bin\Debug\System.Drawing.Common.dll
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\obj\Debug\QR_Code_gen.csprojAssemblyReference.cache
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\obj\Debug\QR_Code_gen.csproj.CoreCompileInputs.cache
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\obj\Debug\QR_Code_gen.csproj.CopyComplete
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\obj\Debug\QR_Code_gen.exe
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\obj\Debug\QR_Code_gen.pdb
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\bin\Debug\itextsharp.dll
+C:\Users\touhi\source\repos\Samia\QR_Code_gen\bin\Debug\itextsharp.xml
